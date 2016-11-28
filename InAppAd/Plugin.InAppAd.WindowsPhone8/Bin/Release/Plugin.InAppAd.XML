@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.InAppAd</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.InAppAd.InAppAdRenderer">
+            <summary>
+            AdMobView renderer implementation for Google AdView ads for Windows Phone.
+            </summary>
+        </member>
+        <member name="M:Plugin.InAppAd.InAppAdRenderer.Init">
+            <summary>
+            Used for registration with dependency service
+            </summary>
+        </member>
+        <member name="M:Plugin.InAppAd.InAppAdRenderer.OnElementChanged(Xamarin.Forms.Platform.WinPhone.ElementChangedEventArgs{Xamarin.Forms.View})">
+            <summary>
+            reload the view and hit up google admob 
+            </summary>
+            <param name="e"></param>
+        </member>
+    </members>
+</doc>

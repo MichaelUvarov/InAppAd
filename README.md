@@ -1,2 +1,4 @@
 # InAppAd
-Library to add advertising in Xamarin.Forms and Windows applications
+InAppAd
+
+This project is a cross platform library for Xamarin, which enables a handy use of InApp advertising in your applications.

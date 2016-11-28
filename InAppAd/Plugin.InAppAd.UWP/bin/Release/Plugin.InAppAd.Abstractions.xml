@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.InAppAd.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.InAppAd.Abstractions.InAppAdView">
+            <summary>
+            This control for advertising in mobile apps
+            </summary>
+        </member>
+        <member name="P:Plugin.InAppAd.Abstractions.InAppAdView.AdUnitId">
+            <summary>
+            The ID of the AdMob ad to display
+            This is the string Id from your Google Play account
+            AdUnitId example : ca-app-pub-5796681800623607/8623940979
+            </summary>
+        </member>
+        <member name="P:Plugin.InAppAd.Abstractions.InAppAdView.MicrosoftWidth">
+            <summary>
+            Ad banner width
+            https://msdn.microsoft.com/en-us/windows/uwp/monetize/supported-ad-sizes-for-banner-ads
+            </summary>
+        </member>
+        <member name="P:Plugin.InAppAd.Abstractions.InAppAdView.MicrosoftHeight">
+            <summary>
+            Ad banner height
+            https://msdn.microsoft.com/en-us/windows/uwp/monetize/supported-ad-sizes-for-banner-ads
+            </summary>
+        </member>
+        <member name="P:Plugin.InAppAd.Abstractions.InAppAdView.MicrosoftAppId">
+            <summary>
+            The ID of the Microsoft ad to display
+            This is the string Id from 
+            https://msdn.microsoft.com/en-us/windows/uwp/monetize/install-the-microsoft-advertising-libraries
+            </summary>
+        </member>
+    </members>
+</doc>

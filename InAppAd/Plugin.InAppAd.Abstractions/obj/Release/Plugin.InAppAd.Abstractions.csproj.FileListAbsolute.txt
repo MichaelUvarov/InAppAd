@@ -1,0 +1,16 @@
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Plugin.InAppAd.Abstractions.XML
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Plugin.InAppAd.Abstractions.dll
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Plugin.InAppAd.Abstractions.pdb
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Xamarin.Forms.Core.dll
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Xamarin.Forms.Platform.dll
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Xamarin.Forms.Core.pdb
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Xamarin.Forms.Core.xml
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\obj\Release\Plugin.InAppAd.Abstractions.csprojResolveAssemblyReference.cache
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\obj\Release\Plugin.InAppAd.Abstractions.dll
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\obj\Release\Plugin.InAppAd.Abstractions.pdb
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\obj\Release\Plugin.InAppAd.Abstractions.dll.mdb
+C:\Project\InAppAd\InAppAd\Plugin.InAppAd.Abstractions\bin\Release\Plugin.InAppAd.Abstractions.dll.mdb
